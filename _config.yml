@@ -18,6 +18,14 @@ plugins:
   - jekyll-seo-tag
 
 authors:
+Ricardo:
+    name: Ricardo
+    site: 
+    avatar: /assets/images/avatar1.jpg
+    bio: "Olá sou o Ricardo"
+    email: 
+    twitter: 
+
   sal:
     name: Sal
     site: https://www.wowthemes.net
@@ -41,7 +49,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: Ricardo
       avatar: /assets/images/avatar1.jpg
 
   # all pages
