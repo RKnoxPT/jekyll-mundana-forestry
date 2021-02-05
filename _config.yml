@@ -18,6 +18,14 @@ plugins:
   - jekyll-seo-tag
 
 authors:
+  marta:
+    name: Marta
+    site: 
+    avatar: /assets/images/avatar1.jpg
+    bio: "Olá sou a Marta"
+    email: 
+    twitter:
+
   ricardo:
     name: Ricardo
     site: 
