@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Welcome to Jekyll!"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
