@@ -2,7 +2,9 @@
 layout: post
 title:  "Never stopped worrying or loving the bomb"
 author: sal
-categories: [ Jekyll ]
+categories:
+-testecat1
+-testecategoria2
 image: assets/images/14.jpg
 tags: featured
 ---
