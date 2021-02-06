@@ -3,8 +3,8 @@ layout: post
 title:  "Never stopped worrying or loving the bomb"
 author: sal
 categories:
--testecat1
--testecategoria2
+- testecat1
+- testecategoria2
 image: assets/images/14.jpg
 tags: featured
 ---
